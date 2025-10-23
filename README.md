@@ -9,3 +9,6 @@ Les besoins :
 - afficher les besoins en intervention dans un secteur (purge, équipement, ...)
 - consigner les interventions.
 
+## Initialiser la base de données mySQL via docker.
+
+``` $ . ./start_db_with_docker.sh ```
